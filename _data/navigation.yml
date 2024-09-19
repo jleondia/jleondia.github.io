@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Technical notes"
+    url: /technical_notes/
+  - title: "CV"
+    url: https://yabramuvdi.github.io/files/CV.pdf
