@@ -107,8 +107,8 @@ author:
   bio              : "*Something* <br>
                       *Something more*
                       "
-  #location         : "Washington, DC"
-  #email            : "johnjairol at iadb.org"
+  location         : "Washington, DC"
+  email            : "johnjairol at iadb.org"
   github           : "jleondia"
   linkedin         : "john-leon-diaz-93105613b"
   # links:
