@@ -8,11 +8,6 @@ comments: false
 ---
 # About me
 
-*cursiva*, **negrilla**, 
-[un link](https://www.linkedin.com/in/john-leon-diaz-93105613b/)
+**[Page Under Construction]** 
 
-- elemento de una lista
-- otro
 
-1. Uno
-2. Dos
