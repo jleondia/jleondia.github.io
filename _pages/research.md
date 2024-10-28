@@ -23,7 +23,7 @@ comments: false
 
 <details>
   <summary>Abstract</summary><p>
-  This paper provides evidence on the effect of fiscal stimulus on economic activity for countries with different degrees of institutional quality. For a panel of 113 countries during the period 1988-2017, we find evidence that an increment of 1% in government consumption yields a sizable, persistent and stable increase in economic activity of 0.9% in countries with higher institutional quality.
+  This paper provides evidence on the effect of fiscal stimulus on economic activity for countries with different degrees of institutional quality. For a panel of 113 countries during the period 1988-2017, we find evidence that an increment of 1% in government consumption yields a sizable, persistent and stable increase in economic activity of 0.9% in countries with higher institutional quality. <p>
 </details>
 
 ## Publications <!-- New line here... -->
