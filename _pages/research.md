@@ -10,7 +10,7 @@ comments: false
 
 ---
 
-### [<var>From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean<var>](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. (R&R) 
+### [From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. (R&R) 
 
 <details>
   <summary>Abstract</summary><p>
@@ -19,7 +19,7 @@ comments: false
 </details>
 
 
-### [<var>The Role of Institutional Quality on the Effects of Fiscal Stimulus<var>](https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus) with Leopoldo Avellán and Arturo Galindo.
+### [The Role of Institutional Quality on the Effects of Fiscal Stimulus](https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus) with Leopoldo Avellán and Arturo Galindo.
 
 <details>
   <summary>Abstract</summary><p>
