@@ -10,7 +10,6 @@ comments: false
 
 <div class="bio">
     <h1>JJLEON</h1>
-    <img src="my_photo_web.jpg" alt="Stephen Hansen Photo">
     <h3> About Me </h3>
     <p>I am a Professor of Economics at <a href="https://www.ucl.ac.uk/economics/ucl-department-economics" target="_blank"
             rel="noopener noreferrer">University College London</a>. My current research uses unstructured data to build new
