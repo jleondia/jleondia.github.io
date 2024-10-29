@@ -37,6 +37,16 @@ with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez  <br>
 </p>
 </details> <br>  
 
+### [Optimal Commodity Price Hedging](https://publications.iadb.org/en/optimal-commodity-price-hedging) 
+with Leandro Andrián, and Jorge Mondragón-Minero.
+
+<details>
+    <summary><u>Abstract</u></summary><p> 
+ The dependence of many countries in the region on oil exports makes them vulnerable to oil price volatility. In particular, the sharp declines observed between 2014 and 2016 show how public finances weakened with significant debt increases in these countries. A strategy to mitigate the effect of sharp falls in oil prices would allow oil exporting countries to suffer a smaller impact on their public finances. This paper shows that using put options to insure against oil price hikes lowers public debt and fiscal deficits.
+</p>
+</details> <br>
+
+
 
 ## Publications <!-- New line here... -->
 
