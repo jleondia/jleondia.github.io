@@ -17,7 +17,7 @@ comments: false
 </details> <br> 
 
 ### [Trends and Features of Policy-Based Lending at the Inter-American Development Bank](https://publications.iadb.org/en/trends-and-features-policy-based-lending-inter-american-development-bank) 
-with Leopoldo Avellán, Giulia Lotti, and Steve Brito.
+with Leopoldo Avellán, [Giulia Lotti](https://sites.google.com/view/giulia-lotti/home-page), and Steve Brito.
 
 <details>
     <summary><u>Abstract</u></summary><p> 
