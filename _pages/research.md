@@ -45,7 +45,6 @@ with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez  <br>
 ### [The role of relative price volatility in the efficiency of investment allocation](https://www.sciencedirect.com/science/article/abs/pii/S0261560612001763)
 with Eduardo Cavallo, Alejandro Izquierdo, and Arturo Galindo  <br>
 <i>Journal of International Money and Finance</i> <br>
-  [<b>[Domestic Antidotes to Sudden Stops]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)
 <details>
     <summary><u>Abstract</u></summary><p> 
  This paper estimates the impact of relative price volatility on sector-level investment allocation using a panel of 65 countries with data for 26 manufacturing industries over the period 1985–2003. Results indicate that volatility distorts efficient investment allocation in that investment is not necessarily devoted to relatively more productive sectors, especially in emerging market economies that are highly exposed and may lack the necessary institutions to deal with it successfully. This is evidence in support of theories suggesting that relative price volatility provides incentives for entrepreneurs to adopt more “malleable” but less productive production technologies, enabling them to accommodate more easily abrupt and frequent changes in relative prices, but at the cost of using less productive technologies.
