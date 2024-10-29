@@ -29,7 +29,7 @@ with Leopoldo Avellán, and Arturo Galindo.
 </details> <br>  
 
 ### [Preventing Sudden Stops in Net Capital Flows](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) (Resubmitted)
-with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez <!-- New line here... -->
+with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez  <br>
   [<b>[Previous Version]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)
 <details>
     <summary><u>Abstract</u></summary><p> 
