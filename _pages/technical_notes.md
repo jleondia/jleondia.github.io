@@ -26,7 +26,7 @@ with Leopoldo Avellán, Giulia Lotti, and Steve Brito.
 </p>
 </details> <br>  
 
-### [On the Dynamics of the Projects Approval Process](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) (Resubmitted)
+### [On the Dynamics of the Projects Approval Process](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows)
 with Leopoldo Avellán
 <details>
     <summary><u>Abstract</u></summary><p> 
