@@ -34,7 +34,13 @@ with Leopoldo Avellán
 </p>
 </details> <br>  
 
-
+### [Pipeline Volatility: Lessons from the Operational Program Report (OPR)](https://publications.iadb.org/en/pipeline-volatility-lessons-operational-program-report-opr)
+with Leopoldo Avellán
+<details>
+    <summary><u>Abstract</u></summary><p> 
+  TThe study finds that variability in the approval rate of IDB-funded investment projects depends more on specific project characteristics than on macroeconomic conditions faced by countries or errors in forecasts of economic growth and fiscal deficits.
+</p>
+</details> <br>  
 
 ---
 
