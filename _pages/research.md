@@ -30,7 +30,7 @@ with Leopoldo Avellán, and Arturo Galindo.
 
 ### [Preventing Sudden Stops in Net Capital Flows](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) (Resubmitted)
 with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez  <br>
-  [<b>[Previous Version]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)
+  [<b>[Domestic Antidotes to Sudden Stops]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)
 <details>
     <summary><u>Abstract</u></summary><p> 
   Sudden stops in net capital flows can be prevented if domestic investors either repatriate foreign-held assets or roll over their local asset holdings when foreign investors stop lending or sell off their local asset holdings. This paper presents evidence showing that domestic factors such as low levels of liability dollarization, the consistency of the monetary and exchange rate regimes, low inflation, higher growth, and a solid institutional background, explain why some countries are more successful in eliciting the behaviors that increase the probability of preventing a sudden stop following a tightening of the external borrowing constraint. Prevention is key to offsetting an external credit crunch originating in factors that are usually outside the control of borrowing countries, which can turn into costly sudden stops in net capital flows in the affected economies.
