@@ -28,7 +28,7 @@ with Leopoldo Avellán, and Arturo Galindo.
 </p>
 </details> <br>  
 
-### [Preventing Sudden Stops in Net Capital Flows](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows)
+### [Preventing Sudden Stops in Net Capital Flows](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) (Resubmitted)
 with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez
 <details>
     <summary><u>Abstract</u></summary><p> 
