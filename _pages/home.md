@@ -8,7 +8,7 @@ comments: false
 ---
 <div class="bio">
     <h3> About Me </h3>
-    <p style="font-size:14px;">I am an Economist at <a href="https://www.iadb.org/en" target="_blank"
+    <p style="font-size:16px;">I am an Economist at <a href="https://www.iadb.org/en" target="_blank"
             rel="noopener noreferrer">Inter-American Development Bank (IDB)</a> currently working in the Office of Strategic Planning and Development Effectiveness (SPD) in the <a href="https://www.iadb.org/en/who-we-are/how-we-are-organized/office-strategic-planning-and-development-effectiveness" target="_blank"
             rel="noopener noreferrer"> Strategic Planning and Monitoring Division (SMO)</a>. Previously, I worked for the IDB’s <a href="https://www.iadb.org/en/knowledge-resources/research-idb" target="_blank"
             rel="noopener noreferrer">Research Department (RES)</a>, the <a href="https://flar.com/en/home/" target="_blank"
@@ -17,13 +17,13 @@ comments: false
 </div>
 
 <div class="edu">
-<p style="font-size:14px;">I hold a Ph.D. in Economics from the <a href="https://www.econ.umd.edu/" target="_blank"
+<p style="font-size:16px;">I hold a Ph.D. in Economics from the <a href="https://www.econ.umd.edu/" target="_blank"
             rel="noopener noreferrer">University of Maryland (UMD)</a> and a master's degree in economics from the <a href="https://fce.unal.edu.co/facultad/" target="_blank"
             rel="noopener noreferrer"> National University of Colombia (UNAL)</a>.</p>
 </div>
 
 <div class="int">
- <p style="font-size:14px;"> My main areas of interests are <i>macroeconomics</i> and <i>international finance</i>, with a focus on <i>development</i>. </p>
+ <p style="font-size:16px;"> My main areas of interests are <i>macroeconomics</i> and <i>international finance</i>, with a focus on <i>development</i>. </p>
 </div>
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
