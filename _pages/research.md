@@ -20,13 +20,22 @@ with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos.
 </details> <br> 
 
 ### [The Role of Institutional Quality on the Effects of Fiscal Stimulus](https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus) 
-with Leopoldo Avellán and Arturo Galindo.
+with Leopoldo Avellán, and Arturo Galindo.
 
 <details>
     <summary><u>Abstract</u></summary><p> 
   This paper provides evidence on the effect of fiscal stimulus on economic activity for countries with different degrees of institutional quality. For a panel of 113 countries during the period 1988-2017, we find evidence that an increment of 1% in government consumption yields a sizable, persistent and stable increase in economic activity of 0.9% in countries with higher institutional quality.
 </p>
 </details> <br>  
+
+### [Preventing Sudden Stops in Net Capital Flows](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows)
+with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez
+<details>
+    <summary><u>Abstract</u></summary><p> 
+  Sudden stops in net capital flows can be prevented if domestic investors either repatriate foreign-held assets or roll over their local asset holdings when foreign investors stop lending or sell off their local asset holdings. This paper presents evidence showing that domestic factors such as low levels of liability dollarization, the consistency of the monetary and exchange rate regimes, low inflation, higher growth, and a solid institutional background, explain why some countries are more successful in eliciting the behaviors that increase the probability of preventing a sudden stop following a tightening of the external borrowing constraint. Prevention is key to offsetting an external credit crunch originating in factors that are usually outside the control of borrowing countries, which can turn into costly sudden stops in net capital flows in the affected economies.
+</p>
+</details> <br>  
+
 
 ## Publications <!-- New line here... -->
 
