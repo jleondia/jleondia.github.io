@@ -9,8 +9,8 @@ comments: false
 # Working Papers  <!-- New line here... -->
 ***
 
-## [From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) 
-with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. (R&R) 
+## [From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) (R&R) 
+with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. 
 
 <details>
     <summary><u>Abstract</u></summary><p> 
