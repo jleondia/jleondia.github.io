@@ -8,7 +8,9 @@ comments: false
 ---
 # About me
 
-I am an Economist at the [Inter-American Development Bank (IDB)](https://www.iadb.org/en) and currently working in the Office of Strategic Planning and Development Effectiveness (SPD) in the [Strategic Planning and Monitoring Division](https://www.iadb.org/en/who-we-are/how-we-are-organized/office-strategic-planning-and-development-effectiveness). Previously, I worked for the IDB’s [Research Department (RES)](https://www.iadb.org/en/knowledge-resources/research-idb), the [Latin American Reserve Fund](https://flar.com/en/home/), and the [Central Bank of Colombia](https://www.banrep.gov.co/en). I hold a Ph.D. in Economics from the [University of Maryland (UMD)](https://www.econ.umd.edu/) and a master's degree in economics from the [National University of Colombia (UNAL)](https://fce.unal.edu.co/facultad/).
+I am an Economist at the [Inter-American Development Bank (IDB)](https://www.iadb.org/en) currently working in the Office of Strategic Planning and Development Effectiveness (SPD) in the [Strategic Planning and Monitoring Division](https://www.iadb.org/en/who-we-are/how-we-are-organized/office-strategic-planning-and-development-effectiveness). Previously, I worked for the IDB’s [Research Department (RES)](https://www.iadb.org/en/knowledge-resources/research-idb), the [Latin American Reserve Fund](https://flar.com/en/home/), and the [Central Bank of Colombia](https://www.banrep.gov.co/en). 
+
+I hold a Ph.D. in Economics from the [University of Maryland (UMD)](https://www.econ.umd.edu/) and a master's degree in economics from the [National University of Colombia (UNAL)](https://fce.unal.edu.co/facultad/).
 
 My main areas of interests are <i>macroeconomics</i> and <i>international finance</i>, with a focus on <i>development</i>.
 
