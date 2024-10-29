@@ -16,26 +16,25 @@ comments: false
 </p>
 </details> <br> 
 
-### [The Role of Institutional Quality on the Effects of Fiscal Stimulus](https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus) 
-with Leopoldo Avellán, and Arturo Galindo.
+### [Trends and Features of Policy-Based Lending at the Inter-American Development Bank](https://publications.iadb.org/en/trends-and-features-policy-based-lending-inter-american-development-bank) 
+with Leopoldo Avellán, Giulia Lotti, and Steve Brito.
 
 <details>
     <summary><u>Abstract</u></summary><p> 
-  This paper provides evidence on the effect of fiscal stimulus on economic activity for countries with different degrees of institutional quality. For a panel of 113 countries during the period 1988-2017, we find evidence that an increment of 1% in government consumption yields a sizable, persistent and stable increase in economic activity of 0.9% in countries with higher institutional quality.
+  Policy-based lending is an important element within the toolbox of multilateral development banks to assist countries that need budget support and/or that are embarked on institutional changes or reforms. This Technical Note reviews different aspects of policy-based loans (PBLs) to gain a fresh perspective on their structural and financial features. It examines policy-based loans through the lens of their dual goals of providing beneficiary countries with flexible, liquid, and timely funding to meet their financing needs and of supporting policy reforms or institutional changes in a sector or subsector.</p>
+<p>The discussion identifies general trends in policy-based lending in Latin America and the Caribbean, explores the sectoral allocation of the policy-based loans of the Inter-American Development Bank (IDB), and examines how policy-based loans are combined with other instruments as they provide liquidity and support reforms. It also explores how the IDB compares to other multilateral development banks in Latin America and the Caribbean in terms of policy-based lending.
 </p>
 </details> <br>  
 
-### [Preventing Sudden Stops in Net Capital Flows](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) (Resubmitted)
-with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez  <br>
-  [<b>[Domestic Antidotes to Sudden Stops]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)
+### [On the Dynamics of the Projects Approval Process](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) (Resubmitted)
+with Leopoldo Avellán
 <details>
     <summary><u>Abstract</u></summary><p> 
-  Sudden stops in net capital flows can be prevented if domestic investors either repatriate foreign-held assets or roll over their local asset holdings when foreign investors stop lending or sell off their local asset holdings. This paper presents evidence showing that domestic factors such as low levels of liability dollarization, the consistency of the monetary and exchange rate regimes, low inflation, higher growth, and a solid institutional background, explain why some countries are more successful in eliciting the behaviors that increase the probability of preventing a sudden stop following a tightening of the external borrowing constraint. Prevention is key to offsetting an external credit crunch originating in factors that are usually outside the control of borrowing countries, which can turn into costly sudden stops in net capital flows in the affected economies.
+  This technical note analyzes specific project- and country-level characteristics that affect the duration of the projects approval process from year to year and builds a framework to characterize projects that would require further monitoring to complete their approval process. We present evidence that the number of team leaders changes, the time that a project remains in pipeline A, the size of a project relative to the pipeline of its country, and whether it is an electoral year in a given country affect the rate at which projects are approved. These empirical regularities can support the projects preparation process and better allocate resources and efforts to optimize approval times.
 </p>
 </details> <br>  
 
 
-## Publications <!-- New line here... -->
 
 ---
 
