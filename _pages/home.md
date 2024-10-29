@@ -11,11 +11,16 @@ comments: false
 John Leon-Diaz is an Economist at the Inter-American Development Bank (IDB) and currently works in the Office of Strategic Planning and Development Effectiveness (SPD) in the Strategic Planning and Monitoring Division. Previously, he worked for the IDB’s Research Department (RES), the Latin American Reserve Fund, and the Central Bank of Colombia. John holds a Ph.D. in Economics from the University of Maryland (UMD).
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
+ Last Update
+  <span style="color: #ff0000">October, 2024 </span>
+</p>
+
+<!-- <p style="font-size:14px; font-weight:bold; font-style:italic;">
   Enter the competition by 
   <span style="color: #ff0000">January 30, 2011</span>
   and you could win up to $$$$ — including amazing 
   <span style="color: #0000a0">summer</span> 
   trips!
-</p>
+</p> -->
 
 
