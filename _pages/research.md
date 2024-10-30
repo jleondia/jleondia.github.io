@@ -9,7 +9,7 @@ comments: false
 ## Working Papers  <!-- New line here... -->
 ***
 
-### <sub>[From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) (R&R) </sub>
+### [From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) (R&R) 
 with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. <br>
 <sub>[<b>[Blog Entry]</b>](https://s2.bl-1.com/h/i/dwWPkB94/PcTFGyB?url=https://blogs.iadb.org/efectividad-desarrollo/en/structural-reforms-new-recipes-for-evolving-needs/)</sub>
 
@@ -31,7 +31,7 @@ with Leopoldo Avellán, and Arturo Galindo.
 
 ### [Preventing Sudden Stops in Net Capital Flows](/files/New_Prevented_fv.pdf) (Resubmitted)
 with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez  <br>
-  [<b>[Previous Version]</b>](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) [<b>[Domestic Antidotes to Sudden Stops]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)
+  <sub>[<b>[Previous Version]</b>](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) [<b>[Domestic Antidotes to Sudden Stops]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)</sub>
 <details>
     <summary><u>Abstract</u></summary><p> 
   Sudden stops in net capital flows can be prevented if domestic investors either repatriate foreign-held assets or roll over their local asset holdings when foreign investors stop lending or sell off their local asset holdings. This paper presents evidence showing that domestic factors such as low levels of liability dollarization, the consistency of the monetary and exchange rate regimes, low inflation, higher growth, and a solid institutional background, explain why some countries are more successful in eliciting the behaviors that increase the probability of preventing a sudden stop following a tightening of the external borrowing constraint. Prevention is key to offsetting an external credit crunch originating in factors that are usually outside the control of borrowing countries, which can turn into costly sudden stops in net capital flows in the affected economies.
