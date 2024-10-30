@@ -9,9 +9,9 @@ comments: false
 ## Working Papers  <!-- New line here... -->
 ***
 
-### [From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) (R&R) 
+### <sub>[From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) (R&R) </sub>
 with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. <br>
-[<b>[Blog Entry]</b>](https://s2.bl-1.com/h/i/dwWPkB94/PcTFGyB?url=https://blogs.iadb.org/efectividad-desarrollo/en/structural-reforms-new-recipes-for-evolving-needs/)
+<sub>[<b>[Blog Entry]</b>](https://s2.bl-1.com/h/i/dwWPkB94/PcTFGyB?url=https://blogs.iadb.org/efectividad-desarrollo/en/structural-reforms-new-recipes-for-evolving-needs/)</sub>
 
 <details>
     <summary><u>Abstract</u></summary><p> 
