@@ -17,7 +17,7 @@ comments: false
 </details> <br> 
 
 ### [Trends and Features of Policy-Based Lending at the Inter-American Development Bank](https://publications.iadb.org/en/trends-and-features-policy-based-lending-inter-american-development-bank) 
-with Leopoldo Avellán, [Giulia Lotti](https://sites.google.com/view/giulia-lotti/home-page), and Steve Brito.
+with [Leopoldo Avellán](https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en), [Giulia Lotti](https://sites.google.com/view/giulia-lotti/home-page), and Steve Brito.
 
 <details>
     <summary><u>Abstract</u></summary><p> 
@@ -27,7 +27,7 @@ with Leopoldo Avellán, [Giulia Lotti](https://sites.google.com/view/giulia-lott
 </details> <br>  
 
 ### [On the Dynamics of the Projects Approval Process](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows)
-with Leopoldo Avellán
+with [Leopoldo Avellán](https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en)
 <details>
     <summary><u>Abstract</u></summary><p> 
   This technical note analyzes specific project- and country-level characteristics that affect the duration of the projects approval process from year to year and builds a framework to characterize projects that would require further monitoring to complete their approval process. We present evidence that the number of team leaders changes, the time that a project remains in pipeline A, the size of a project relative to the pipeline of its country, and whether it is an electoral year in a given country affect the rate at which projects are approved. These empirical regularities can support the projects preparation process and better allocate resources and efforts to optimize approval times.
@@ -35,7 +35,7 @@ with Leopoldo Avellán
 </details> <br>  
 
 ### [Pipeline Volatility: Lessons from the Operational Program Report (OPR)](https://publications.iadb.org/en/pipeline-volatility-lessons-operational-program-report-opr)
-with Leopoldo Avellán
+with [Leopoldo Avellán](https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en)
 <details>
     <summary><u>Abstract</u></summary><p> 
   TThe study finds that variability in the approval rate of IDB-funded investment projects depends more on specific project characteristics than on macroeconomic conditions faced by countries or errors in forecasts of economic growth and fiscal deficits.
