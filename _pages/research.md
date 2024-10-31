@@ -21,7 +21,7 @@ with [Luis Felipe Cespedes](https://fen.uchile.cl/en/academicos-investigacion/di
 </details> <br> 
 
 ### [The Role of Institutional Quality on the Effects of Fiscal Stimulus](https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus) 
-with Leopoldo Avellán, and [Arturo Galindo](https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en).
+with [Leopoldo Avellán](https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en), and [Arturo Galindo](https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en).
 
 <details>
     <summary><u>Abstract</u></summary><p> 
