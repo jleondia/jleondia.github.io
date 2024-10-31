@@ -10,7 +10,7 @@ comments: false
 ***
 
 ### [From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) (R&R) 
-with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. <br>
+with [Luis Felipe Cespedes](https://fen.uchile.cl/en/academicos-investigacion/directorio-de-academicos/detalle/luis-cespedes), [Maria Orduz](https://www.mariaorduz.com/), and Sebastian Bustos. <br>
 <sub>[<b>[Blog Entry]</b>](https://s2.bl-1.com/h/i/dwWPkB94/PcTFGyB?url=https://blogs.iadb.org/efectividad-desarrollo/en/structural-reforms-new-recipes-for-evolving-needs/)</sub>
 
 <details>
@@ -21,7 +21,7 @@ with Luis Felipe Cespedes, Maria Orduz, and Sebastian Bustos. <br>
 </details> <br> 
 
 ### [The Role of Institutional Quality on the Effects of Fiscal Stimulus](https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus) 
-with Leopoldo Avellán, and Arturo Galindo.
+with Leopoldo Avellán, and [Arturo Galindo](https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en).
 
 <details>
     <summary><u>Abstract</u></summary><p> 
@@ -30,7 +30,7 @@ with Leopoldo Avellán, and Arturo Galindo.
 </details> <br>  
 
 ### [Preventing Sudden Stops in Net Capital Flows](/files/New_Prevented_fv.pdf) (Resubmitted)
-with Eduardo Cavallo, Alejandro Izquierdo, and Santiago Gómez  <br>
+with [Eduardo Cavallo](https://www.eduardocavallo.com/), [Alejandro Izquierdo](https://scholar.google.com/citations?hl=en&user=gnUIKLoAAAAJ&view_op=list_works&sortby=pubdate), and Santiago Gómez  <br>
   <sub>[<b>[Previous Version]</b>](https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows) [<b>[Domestic Antidotes to Sudden Stops]</b>](https://publications.iadb.org/en/domestic-antidotes-sudden-stops)</sub>
 <details>
     <summary><u>Abstract</u></summary><p> 
@@ -54,7 +54,7 @@ with Leandro Andrián, and Jorge Mondragón-Minero.
 ---
 
 ### [The role of relative price volatility in the efficiency of investment allocation](https://www.sciencedirect.com/science/article/abs/pii/S0261560612001763)
-with Eduardo Cavallo, Alejandro Izquierdo, and Arturo Galindo in <i>Journal of International Money and Finance</i> <br>
+with [Eduardo Cavallo](https://www.eduardocavallo.com/), [Alejandro Izquierdo](https://scholar.google.com/citations?hl=en&user=gnUIKLoAAAAJ&view_op=list_works&sortby=pubdate), and [Arturo Galindo](https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en) in <i>Journal of International Money and Finance</i> <br>
 <details>
     <summary><u>Abstract</u></summary><p> 
  This paper estimates the impact of relative price volatility on sector-level investment allocation using a panel of 65 countries with data for 26 manufacturing industries over the period 1985–2003. Results indicate that volatility distorts efficient investment allocation in that investment is not necessarily devoted to relatively more productive sectors, especially in emerging market economies that are highly exposed and may lack the necessary institutions to deal with it successfully. This is evidence in support of theories suggesting that relative price volatility provides incentives for entrepreneurs to adopt more “malleable” but less productive production technologies, enabling them to accommodate more easily abrupt and frequent changes in relative prices, but at the cost of using less productive technologies.
