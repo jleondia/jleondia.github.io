@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="NfRHaY_-Xz9lyWR8vCJGBSt6_aaMMri88_W7MivVeB4" />
 ---
 title:  ""
 layout: archive
@@ -7,6 +6,7 @@ author_profile: true
 comments: false
 []: # classes: wide
 ---
+<meta name="google-site-verification" content="NfRHaY_-Xz9lyWR8vCJGBSt6_aaMMri88_W7MivVeB4" />
 <div class="bio">
     <h3> About Me </h3>
     <p style="font-size:16px;">I am an Economist at <a href="https://www.iadb.org/en" target="_blank"
