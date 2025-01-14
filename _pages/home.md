@@ -29,7 +29,7 @@ comments: false
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
  Last Update: 
-  <span style="color: #ff0000">October, 2024 </span>
+  <span style="color: #ff0000">January, 2025 </span>
 </p>
 
 <!-- <p style="font-size:14px; font-weight:bold; font-style:italic;">
