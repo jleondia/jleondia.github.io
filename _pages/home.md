@@ -28,13 +28,13 @@ comments: false
 </div>
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
- Last Update: March 2025
-  <span style="color: #ff0000">March, 2025 </span>
+  <span style="color: #ff0000">New: </span>
 </p>
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
-  <span style="color: #ff0000">New: </span>
+ Last Update: March 2025
 </p>
+
 
 <!-- <p style="font-size:14px; font-weight:bold; font-style:italic;">
   Enter the competition by 
