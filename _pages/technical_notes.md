@@ -9,7 +9,7 @@ comments: false
 ***
 
 ### [Tracking the Reform Process from Newspaper Data](https://publications.iadb.org/en/tracking-reform-process-newspaper-data) 
-with [Rafaela Bastidas], [Stephen Hansen](https://sekhansen.github.io/), and [Yabra Muvdi](https://yabramuvdi.github.io/).
+with [Rafaela Bastidas](https://rafaelabastidas.github.io), [Stephen Hansen](https://sekhansen.github.io/), and [Yabra Muvdi](https://yabramuvdi.github.io/).
 
 <details>
     <summary><u>Abstract</u></summary><p> 
