@@ -28,11 +28,7 @@ comments: false
 </div>
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
-  <span style="color: #ff0000">New: </span>[Tracking the Reform Process from Newspaper Data](https://publications.iadb.org/en/tracking-reform-process-newspaper-data) </p>
-
-<p>
-with [Rafaela Bastidas](https://rafaelabastidas.github.io), [Stephen Hansen](https://sekhansen.github.io/), and [Yabra Muvdi](https://yabramuvdi.github.io/).
-</p>
+  <span style="color: #ff0000">New: </span> Tracking the Reform Process from Newspaper Data </p>
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
  Last Update: March 2025
