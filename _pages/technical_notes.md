@@ -8,6 +8,15 @@ comments: false
 
 ***
 
+### [Tracking the Reform Process from Newspaper Data](https://publications.iadb.org/en/tracking-reform-process-newspaper-data) 
+with [Rafaela Bastidas], [Stephen Hansen](https://sekhansen.github.io/), and [Yabra Muvdi](https://yabramuvdi.github.io/).
+
+<details>
+    <summary><u>Abstract</u></summary><p> 
+ Countries often undertake structural reforms to boost productivity, reduce inequality, and improve public sector efficiency, yet there is limited data on the reform process to evaluate these efforts. We examine the extent to which large language models (LLMs) applied to media articles can fill this evidence gap, using a case study from Colombia. We find that suitably prompted LLMs produce output that aligns with human reading. The output reveals extensive coverage of the debate and discussion that precedes reform adoption or rejection, and can be used to track the evolution of specific reforms. We conclude that our methodology, once expanded, could produce a uniquely valuable dataset.
+</p>
+</details> <br>  
+
 ### [Updating Investment Forecasts with Macro Consistency](https://publications.iadb.org/en/updating-investment-forecasts-macro-consistency)
 
 <details>
