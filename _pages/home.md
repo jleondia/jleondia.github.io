@@ -29,6 +29,11 @@ comments: false
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
   <span style="color: #ff0000">New: </span> <a href="https://publications.iadb.org/en/tracking-reform-process-newspaper-data">Tracking the Reform Process from Newspaper Data</a> (Technical Note) </p>
+<p style="font-size:14px; font-weight:bold; font-style:italic;">
+ <a href="https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives">Can Financial Hedging Serve Macroprudential Objectives?</a> (Working Paper) </p>
+
+
+
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
  Last Update: March 2025
