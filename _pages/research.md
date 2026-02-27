@@ -8,6 +8,21 @@ comments: false
 
 ## Working Papers  <!-- New line here... -->
 ***
+### [Inequality, Informality, and Optimal Progressivity](https://cepr.org/publications/dp21229)
+with [Oscar Becerra](https://sites.google.com/site/orbecerra/), [Luigi Briglia](https://www.luigibriglia.com/), [Ralph Luetticke](https://www.ralphluetticke.com/), and Oscar Valencia <br>
+<details>
+<summary><u>Abstract</u></summary><p> 
+  How should governments design progressive labor-income taxes when workers can shift labor supply into untaxed informal work? Using household surveys for Brazil, Colombia, Mexico, and Peru, we document steep gradients in informality, employment, and unemployment across the income distribution. We analyze non-linear tax schedules in a heterogeneous-agent model with search frictions, savings, and an endogenous formal--informal labor-supply margin. Progressivity operates through an inclusion margin at the bottom-negative income taxes increase formal attachment-and an evasion margin at the top, where higher marginal tax rates shift labor supply into the untaxed sector. These opposing forces imply that both welfare and formality are hump-shaped in progressivity; in a calibration to Mexico, the welfare-maximizing degree of progressivity is about five times the current level.
+</p>
+</details> <br> 
+
+### [Can Financial Hedging Serve Macroprudential Objectives?](https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives)
+with [Leandro Andrián](https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en), and [Eugenio Rojas](https://sites.google.com/site/erojasba1/) <br>
+<details>
+<summary><u>Abstract</u></summary><p> 
+  We examine hedging as a macroprudential tool in a Sudden Stops model of an economy exposed to commodity price fluctuations. We find that hedging commodity revenues yields significant welfare gains by stabilizing public expenditure, which heavily depends on these revenues. However, this added stability weakens precautionary motives and exacerbates the pecuniary externality that drives overborrowing in such models. As a result, hedging and traditional macroprudential policy act as complements rather than substitutes, with more ag- gressive hedging inducing a stronger macroprudential response. Our findings suggest that while hedging enhances stability and improves welfare, it does not eliminate the need for macroprudential regulation.
+</p>
+</details> <br> 
 
 ### [From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean](https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean) (R&R) 
 with [Luis Felipe Cespedes](https://fen.uchile.cl/en/academicos-investigacion/directorio-de-academicos/detalle/luis-cespedes), [Maria Orduz](https://www.mariaorduz.com/), and Sebastian Bustos. <br>
@@ -39,7 +54,7 @@ with [Eduardo Cavallo](https://www.eduardocavallo.com/), [Alejandro Izquierdo](h
 </details> <br>  
 
 ### [Optimal Commodity Price Hedging](https://publications.iadb.org/en/optimal-commodity-price-hedging) 
-with Leandro Andrián, and Jorge Mondragón-Minero.
+with [Leandro Andrián](https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en), and Jorge Mondragón-Minero.
 
 <details>
     <summary><u>Abstract</u></summary><p> 
