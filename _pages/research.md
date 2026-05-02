@@ -169,7 +169,6 @@ comments: false
 <div class="paper-entry">
   <div class="paper-title">
     <span class="title-text">The Role of Institutional Quality on the Effects of Fiscal Stimulus</span>
-    <span class="paper-status">(Working Paper)</span>
   </div>
 
   <div class="paper-meta">
@@ -218,7 +217,6 @@ comments: false
 <div class="paper-entry">
   <div class="paper-title">
     <span class="title-text">Optimal Commodity Price Hedging</span>
-    <span class="paper-status">(Working Paper)</span>
   </div>
 
   <div class="paper-meta">
@@ -243,7 +241,6 @@ comments: false
 <div class="paper-entry">
   <div class="paper-title">
     <span class="title-text">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</span>
-    <span class="paper-status">(Published)</span>
   </div>
 
   <div class="paper-meta">
