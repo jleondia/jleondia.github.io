@@ -6,8 +6,6 @@ author_profile: true
 comments: false
 ---
 
-<meta name="google-site-verification" content="NfRHaY_-Xz9lyWR8vCJGBSt6_aaMMri88_W7MivVeB4" />
-
 <style>
   body .archive {
     font-size: 16px !important;
@@ -125,7 +123,7 @@ comments: false
 </div>
 
 <p class="research-tagline">
-  My research studies how macroeconomic shocks, financial frictions, and policy design shape development outcomes.
+  My research studies how macroeconomic shocks, financial frictions, and policy design shape development outcomes in emerging and developing economies.
 </p>
 
 <div class="research-tags">
@@ -135,6 +133,7 @@ comments: false
   <span>Fiscal Policy</span>
   <span>Capital Flows</span>
   <span>Informality</span>
+  <span>Structural Reforms</span>
 </div>
 
 <div class="featured-update">
