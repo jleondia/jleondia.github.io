@@ -24,7 +24,7 @@ comments: false
 </div>
 
 <div class="int">
- <p style="font-size:16px;"> My main areas of interests are <i>macroeconomics</i> and <i>international finance</i>, with a focus on <i>development</i>. </p>
+ <p style="font-size:16px;"> My research interests are <i>macroeconomics</i> and <i>international finance</i>, with a focus on <i>development<i>. </p>
 </div>
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
