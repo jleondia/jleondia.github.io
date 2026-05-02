@@ -20,16 +20,6 @@ comments: false
     border-bottom: 1px solid #dddddd;
   }
 
-  body .archive .research-subsection {
-    font-size: 13px !important;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #666666;
-    margin-top: 1.15em;
-    margin-bottom: 0.55em;
-  }
-
   body .archive .paper-entry {
     margin-bottom: 0.85rem;
     padding-bottom: 0.75rem;
@@ -104,16 +94,9 @@ comments: false
   body .archive .journal {
     font-style: italic;
   }
-
-  body .archive .small-note {
-    font-size: 12.5px !important;
-    color: #666666;
-  }
 </style>
 
 <h2 class="research-section">Working Papers</h2>
-
-<div class="research-subsection">Active submissions</div>
 
 <div class="paper-entry">
   <div class="paper-title">
@@ -191,6 +174,29 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
+    <a href="https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus">The Role of Institutional Quality on the Effects of Fiscal Stimulus</a>
+    <span class="paper-status">Working Paper</span>
+  </div>
+
+  <div class="paper-meta">
+    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en">Leopoldo Avellán</a> 
+    and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en">Arturo Galindo</a>
+  </div>
+
+  <div class="paper-links">
+    <a href="https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus">IDB Working Paper</a>
+  </div>
+
+  <details>
+    <summary><u>Abstract</u></summary>
+    <p>
+      This paper provides evidence on the effect of fiscal stimulus on economic activity for countries with different degrees of institutional quality. For a panel of 113 countries during the period 1988-2017, we find evidence that an increment of 1% in government consumption yields a sizable, persistent, and stable increase in economic activity of 0.9% in countries with higher institutional quality.
+    </p>
+  </details>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
     <a href="/files/New_Prevented_fv.pdf">Preventing Sudden Stops in Net Capital Flows</a>
     <span class="paper-status">Resubmitted</span>
   </div>
@@ -211,31 +217,6 @@ comments: false
     <summary><u>Abstract</u></summary>
     <p>
       Sudden stops in net capital flows can be prevented if domestic investors either repatriate foreign-held assets or roll over their local asset holdings when foreign investors stop lending or sell off their local asset holdings. This paper presents evidence showing that domestic factors such as low levels of liability dollarization, the consistency of the monetary and exchange rate regimes, low inflation, higher growth, and a solid institutional background explain why some countries are more successful in eliciting the behaviors that increase the probability of preventing a sudden stop following a tightening of the external borrowing constraint. Prevention is key to offsetting an external credit crunch originating in factors that are usually outside the control of borrowing countries, which can turn into costly sudden stops in net capital flows in the affected economies.
-    </p>
-  </details>
-</div>
-
-<div class="research-subsection">Other working papers</div>
-
-<div class="paper-entry">
-  <div class="paper-title">
-    <a href="https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus">The Role of Institutional Quality on the Effects of Fiscal Stimulus</a>
-    <span class="paper-status">Working Paper</span>
-  </div>
-
-  <div class="paper-meta">
-    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en">Leopoldo Avellán</a> 
-    and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en">Arturo Galindo</a>
-  </div>
-
-  <div class="paper-links">
-    <a href="https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus">IDB Working Paper</a>
-  </div>
-
-  <details>
-    <summary><u>Abstract</u></summary>
-    <p>
-      This paper provides evidence on the effect of fiscal stimulus on economic activity for countries with different degrees of institutional quality. For a panel of 113 countries during the period 1988-2017, we find evidence that an increment of 1% in government consumption yields a sizable, persistent, and stable increase in economic activity of 0.9% in countries with higher institutional quality.
     </p>
   </details>
 </div>
