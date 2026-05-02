@@ -6,6 +6,27 @@ author_profile: true
 comments: false
 ---
 
+<style>
+  body .page__content h3 {
+    font-size: 18px !important;
+  }
+
+  body .page__content,
+  body .page__content p,
+  body .page__content details,
+  body .page__content summary,
+  body .page__content div,
+  body .page__content span {
+    font-size: 16px !important;
+  }
+
+  body .page__content sub,
+  body .page__content sub * {
+    font-size: 14px !important;
+  }
+</style>
+
+
 ***
 
 ### [Tracking the Reform Process from Newspaper Data](https://publications.iadb.org/en/tracking-reform-process-newspaper-data) 
