@@ -6,7 +6,23 @@ author_profile: true
 comments: false
 ---
 
-## Working Papers  <!-- New line here... -->
+<style>
+  .page__content p,
+  .page__content details,
+  .page__content summary {
+    font-size: 16px;
+  }
+
+  .page__content sub {
+    font-size: 14px;
+  }
+
+  .page__content details p {
+    font-size: 16px;
+  }
+</style>
+
+## Working Papers
 ***
 ### [Inequality, Informality, and Optimal Progressivity](https://cepr.org/publications/dp21229)
 with [Oscar Becerra](https://sites.google.com/site/orbecerra/), [Luigi Briglia](https://www.luigibriglia.com/), [Ralph Luetticke](https://www.ralphluetticke.com/), and Oscar Valencia <br>
