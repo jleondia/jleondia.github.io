@@ -7,37 +7,44 @@ comments: false
 ---
 
 <style>
-  body .page__content {
-    font-size: 15px !important;
+  body .archive {
+    font-size: 14px !important;
+    line-height: 1.42 !important;
   }
 
-  body .page__content p,
-  body .page__content details,
-  body .page__content summary {
-    font-size: 15px !important;
-    line-height: 1.45 !important;
+  body .archive p,
+  body .archive details,
+  body .archive summary,
+  body .archive li {
+    font-size: 14px !important;
+    line-height: 1.42 !important;
   }
 
-  body .page__content h2 {
-    font-size: 22px !important;
-    margin-top: 1.2em !important;
-    margin-bottom: 0.4em !important;
-  }
-
-  body .page__content h3 {
-    font-size: 17px !important;
+  body .archive h2 {
+    font-size: 21px !important;
     margin-top: 1.1em !important;
+    margin-bottom: 0.35em !important;
+  }
+
+  body .archive h3 {
+    font-size: 16px !important;
+    margin-top: 0.95em !important;
+    margin-bottom: 0.15em !important;
+    line-height: 1.25 !important;
+  }
+
+  body .archive sub,
+  body .archive sub * {
+    font-size: 12.5px !important;
+  }
+
+  body .archive details {
+    margin-top: 0.15em !important;
     margin-bottom: 0.25em !important;
   }
 
-  body .page__content sub,
-  body .page__content sub * {
-    font-size: 13px !important;
-  }
-
-  body .page__content details {
-    margin-top: 0.25em !important;
-    margin-bottom: 0.4em !important;
+  body .archive br {
+    line-height: 1.1 !important;
   }
 </style>
 
