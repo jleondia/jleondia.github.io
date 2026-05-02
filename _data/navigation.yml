@@ -4,7 +4,7 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Technical Notes"
+  - title: "Policy Notes"
     url: /technical_notes/
   - title: "CV"
     url: https://jleondia.github.io/files/CV_JLEON.pdf
