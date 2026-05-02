@@ -26,27 +26,6 @@ comments: false
     margin-bottom: 0.55rem;
   }
 
-  body .archive .home-buttons {
-    margin-top: 0.9rem;
-    margin-bottom: 1.2rem;
-  }
-
-  body .archive .home-buttons a {
-    display: inline-block;
-    font-size: 14px !important;
-    font-weight: 700;
-    padding: 0.35rem 0.65rem;
-    margin-right: 0.35rem;
-    margin-bottom: 0.35rem;
-    border: 1px solid #cccccc;
-    border-radius: 4px;
-    text-decoration: none;
-  }
-
-  body .archive .home-buttons a:hover {
-    text-decoration: underline;
-  }
-
   body .archive .featured-update {
     font-size: 14px !important;
     line-height: 1.42 !important;
@@ -109,12 +88,6 @@ comments: false
     My research studies how macroeconomic shocks, financial frictions, and policy design shape development outcomes, with a focus on 
     <i>macroeconomics</i>, <i>international finance</i>, and <i>development</i>.
   </p>
-</div>
-
-<div class="home-buttons">
-  <a href="/research/">Research</a>
-  <a href="/technical_notes/">Technical and Policy Notes</a>
-  <a href="/files/CV_JLEON.pdf">CV</a>
 </div>
 
 <div class="featured-update">
