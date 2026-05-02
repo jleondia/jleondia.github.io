@@ -7,22 +7,37 @@ comments: false
 ---
 
 <style>
-  body .page__content h3 {
-    font-size: 18px !important;
+  body .page__content {
+    font-size: 15px !important;
   }
 
-  body .page__content,
   body .page__content p,
   body .page__content details,
-  body .page__content summary,
-  body .page__content div,
-  body .page__content span {
-    font-size: 16px !important;
+  body .page__content summary {
+    font-size: 15px !important;
+    line-height: 1.45 !important;
+  }
+
+  body .page__content h2 {
+    font-size: 22px !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.4em !important;
+  }
+
+  body .page__content h3 {
+    font-size: 17px !important;
+    margin-top: 1.1em !important;
+    margin-bottom: 0.25em !important;
   }
 
   body .page__content sub,
   body .page__content sub * {
-    font-size: 14px !important;
+    font-size: 13px !important;
+  }
+
+  body .page__content details {
+    margin-top: 0.25em !important;
+    margin-bottom: 0.4em !important;
   }
 </style>
 
