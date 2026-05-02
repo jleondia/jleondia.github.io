@@ -21,7 +21,7 @@ comments: false
   }
 
   body .archive .paper-entry {
-    margin-bottom: 1.05rem;
+    margin-bottom: 1.65rem;
   }
 
   body .archive .paper-title {
@@ -77,8 +77,8 @@ comments: false
   }
 
   body .archive details {
-    margin-top: 0.15rem !important;
-    margin-bottom: 0.1rem !important;
+    margin-top: 0.25rem !important;
+    margin-bottom: 0.35rem !important;
   }
 
   body .archive summary {
@@ -133,7 +133,7 @@ comments: false
   </div>
 
   <div class="paper-meta">
-    with <a href="https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en">Leandro Andrián</a> 
+    with <a href="https://scholar.google.com/citations?user=cv_j97MAAAAJ&amp;hl=en">Leandro Andrián</a> 
     and <a href="https://sites.google.com/site/erojasba1/">Eugenio Rojas</a>
   </div>
 
@@ -179,8 +179,8 @@ comments: false
   </div>
 
   <div class="paper-meta">
-    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en">Leopoldo Avellán</a> 
-    and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en">Arturo Galindo</a>
+    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&amp;hl=en">Leopoldo Avellán</a> 
+    and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&amp;hl=en">Arturo Galindo</a>
   </div>
 
   <details>
@@ -199,7 +199,7 @@ comments: false
 
   <div class="paper-meta">
     with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
-    <a href="https://scholar.google.com/citations?hl=en&user=gnUIKLoAAAAJ&view_op=list_works&sortby=pubdate">Alejandro Izquierdo</a>, 
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
     and Santiago Gómez
   </div>
 
@@ -222,7 +222,7 @@ comments: false
   </div>
 
   <div class="paper-meta">
-    with <a href="https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en">Leandro Andrián</a> 
+    with <a href="https://scholar.google.com/citations?user=cv_j97MAAAAJ&amp;hl=en">Leandro Andrián</a> 
     and Jorge Mondragón-Minero
   </div>
 
@@ -243,8 +243,8 @@ comments: false
 
   <div class="paper-meta">
     with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
-    <a href="https://scholar.google.com/citations?hl=en&user=gnUIKLoAAAAJ&view_op=list_works&sortby=pubdate">Alejandro Izquierdo</a>, 
-    and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en">Arturo Galindo</a>.
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
+    and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&amp;hl=en">Arturo Galindo</a>.
     <span class="journal">Journal of International Money and Finance</span>
   </div>
 
