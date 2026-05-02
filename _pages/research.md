@@ -15,15 +15,13 @@ comments: false
   body .archive .research-section {
     font-size: 20px !important;
     margin-top: 1.15em !important;
-    margin-bottom: 0.55em !important;
+    margin-bottom: 0.65em !important;
     padding-bottom: 0.25em;
     border-bottom: 1px solid #dddddd;
   }
 
   body .archive .paper-entry {
-    margin-bottom: 0.85rem;
-    padding-bottom: 0.75rem;
-    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 1.05rem;
   }
 
   body .archive .paper-title {
@@ -33,20 +31,16 @@ comments: false
     margin: 0 0 0.18rem 0 !important;
   }
 
-  body .archive .paper-title a {
-    text-decoration: none;
+  body .archive .title-text {
+    color: #2a7ae2;
+    font-weight: 700;
   }
 
   body .archive .paper-status {
-    display: inline-block;
-    font-size: 11.5px !important;
-    font-weight: 600;
-    color: #555555;
-    border: 1px solid #cccccc;
-    border-radius: 3px;
-    padding: 0.05rem 0.32rem;
-    margin-left: 0.35rem;
-    vertical-align: middle;
+    font-size: 12.2px !important;
+    font-weight: 500;
+    color: #666666;
+    margin-left: 0.25rem;
     white-space: nowrap;
   }
 
@@ -58,14 +52,14 @@ comments: false
   }
 
   body .archive .paper-links {
-    font-size: 12.7px !important;
+    font-size: 12.8px !important;
     line-height: 1.35 !important;
     margin: 0.08rem 0 0.08rem 0;
   }
 
   body .archive .paper-links a {
     font-weight: 700;
-    margin-right: 0.55rem;
+    margin-right: 0.65rem;
     text-decoration: none;
   }
 
@@ -100,8 +94,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://cepr.org/publications/dp21229">Inequality, Informality, and Optimal Progressivity</a>
-    <span class="paper-status">Submitted</span>
+    <span class="title-text">Inequality, Informality, and Optimal Progressivity</span>
+    <span class="paper-status">(Submitted)</span>
   </div>
 
   <div class="paper-meta">
@@ -125,8 +119,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives">Can Financial Hedging Serve Macroprudential Objectives?</a>
-    <span class="paper-status">Submitted</span>
+    <span class="title-text">Can Financial Hedging Serve Macroprudential Objectives?</span>
+    <span class="paper-status">(Submitted)</span>
   </div>
 
   <div class="paper-meta">
@@ -149,8 +143,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean">From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean</a>
-    <span class="paper-status">R&amp;R</span>
+    <span class="title-text">From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean</span>
+    <span class="paper-status">(R&amp;R)</span>
   </div>
 
   <div class="paper-meta">
@@ -174,8 +168,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus">The Role of Institutional Quality on the Effects of Fiscal Stimulus</a>
-    <span class="paper-status">Working Paper</span>
+    <span class="title-text">The Role of Institutional Quality on the Effects of Fiscal Stimulus</span>
+    <span class="paper-status">(Working Paper)</span>
   </div>
 
   <div class="paper-meta">
@@ -197,8 +191,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="/files/New_Prevented_fv.pdf">Preventing Sudden Stops in Net Capital Flows</a>
-    <span class="paper-status">Resubmitted</span>
+    <span class="title-text">Preventing Sudden Stops in Net Capital Flows</span>
+    <span class="paper-status">(Resubmitted)</span>
   </div>
 
   <div class="paper-meta">
@@ -223,8 +217,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://publications.iadb.org/en/optimal-commodity-price-hedging">Optimal Commodity Price Hedging</a>
-    <span class="paper-status">Working Paper</span>
+    <span class="title-text">Optimal Commodity Price Hedging</span>
+    <span class="paper-status">(Working Paper)</span>
   </div>
 
   <div class="paper-meta">
@@ -248,8 +242,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261560612001763">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</a>
-    <span class="paper-status">Published</span>
+    <span class="title-text">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</span>
+    <span class="paper-status">(Published)</span>
   </div>
 
   <div class="paper-meta">
