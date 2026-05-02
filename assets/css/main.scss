@@ -8,21 +8,21 @@
 
 /* Subtle professional top navigation */
 .masthead__menu-item a {
-  font-weight: 650 !important;
-  color: #2f3a45 !important;
-  padding: 0.32rem 0.52rem !important;
-  border-radius: 4px;
+  font-weight: 500 !important;
+  color: #3f4852 !important;
+  padding: 0.22rem 0.38rem !important;
+  border-radius: 3px;
   transition: color 0.18s ease, background-color 0.18s ease;
 }
 
 .masthead__menu-item a:hover {
   color: #2a6fbb !important;
-  background-color: #f3f7fb !important;
+  background-color: #f6f9fc !important;
   text-decoration: none !important;
 }
 
 .masthead__menu-item--active a,
 .masthead__menu-item a[aria-current="page"] {
   color: #2a6fbb !important;
-  background-color: #f3f7fb !important;
+  background-color: #f6f9fc !important;
 }
