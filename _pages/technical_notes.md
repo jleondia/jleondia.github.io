@@ -1,5 +1,5 @@
 ---
-title:  "Technical and Policy Notes"
+title:  "Policy Notes"
 layout: archive
 permalink: /technical_notes/
 author_profile: true
