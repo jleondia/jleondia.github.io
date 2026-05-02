@@ -28,7 +28,7 @@ comments: false
 </div>
 
 <p style="font-size:14px; font-weight:bold; font-style:italic;">
-  <span style="color: #ff0000">New Version: </span> <a href="https://www.dropbox.com/scl/fi/3jqta655euq3aimbama3e/ARL_Hedging_MPP_April_2026.pdf?rlkey=wny0jq01vzzltw68lix49vhmo&e=1&dl=0">Can Financial Hedging Serve Macroprudential Objectives?</a> (Working Paper) </p>
+  <span style="color: #ff0000">New Version: </span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685279">Can Financial Hedging Serve Macroprudential Objectives?</a> (Working Paper) </p>
 
 
 
