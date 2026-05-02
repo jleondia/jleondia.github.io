@@ -53,7 +53,7 @@ with [Oscar Becerra](https://sites.google.com/site/orbecerra/), [Luigi Briglia](
 
 ### [Can Financial Hedging Serve Macroprudential Objectives?](https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives) (Submitted)
 with [Leandro Andrián](https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en), and [Eugenio Rojas](https://sites.google.com/site/erojasba1/) <br>
-<sub>[<b>[New Version]</b>]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685279])</sub>
+<sub>[<b>[New Version]</b>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685279)</sub>
 
 <details>
 <summary><u>Abstract</u></summary><p> 
