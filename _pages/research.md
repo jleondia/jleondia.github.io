@@ -7,18 +7,22 @@ comments: false
 ---
 
 <style>
-  .page__content p,
-  .page__content details,
-  .page__content summary {
-    font-size: 16px;
+  body .page__content h3 {
+    font-size: 18px !important;
   }
 
-  .page__content sub {
-    font-size: 14px;
+  body .page__content,
+  body .page__content p,
+  body .page__content details,
+  body .page__content summary,
+  body .page__content div,
+  body .page__content span {
+    font-size: 16px !important;
   }
 
-  .page__content details p {
-    font-size: 16px;
+  body .page__content sub,
+  body .page__content sub * {
+    font-size: 14px !important;
   }
 </style>
 
