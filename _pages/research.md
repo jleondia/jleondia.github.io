@@ -38,6 +38,8 @@ with [Oscar Becerra](https://sites.google.com/site/orbecerra/), [Luigi Briglia](
 
 ### [Can Financial Hedging Serve Macroprudential Objectives?](https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives) (Submitted)
 with [Leandro Andrián](https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en), and [Eugenio Rojas](https://sites.google.com/site/erojasba1/) <br>
+<sub>[<b>[New Version]</b>]([https://www.dropbox.com/scl/fi/3jqta655euq3aimbama3e/ARL_Hedging_MPP_April_2026.pdf?rlkey=wny0jq01vzzltw68lix49vhmo&e=1&dl=0])</sub>
+
 <details>
 <summary><u>Abstract</u></summary><p> 
   We examine hedging as a macroprudential tool in a Sudden Stops model of an economy exposed to commodity price fluctuations. We find that hedging commodity revenues yields significant welfare gains by stabilizing public expenditure, which heavily depends on these revenues. However, this added stability weakens precautionary motives and exacerbates the pecuniary externality that drives overborrowing in such models. As a result, hedging and traditional macroprudential policy act as complements rather than substitutes, with more ag- gressive hedging inducing a stronger macroprudential response. Our findings suggest that while hedging enhances stability and improves welfare, it does not eliminate the need for macroprudential regulation.
