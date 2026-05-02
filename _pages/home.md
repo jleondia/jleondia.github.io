@@ -98,6 +98,12 @@ comments: false
     color: #555555;
     margin-top: 1.2rem;
   }
+
+  body .archive .update-description {
+  font-size: 13.2px !important;
+  color: #555555;
+  margin-top: 0.25rem;
+}
 </style>
 
 <div class="home-card">
@@ -142,6 +148,9 @@ comments: false
     Can Financial Hedging Serve Macroprudential Objectives?
   </a>
   <span>(Working Paper)</span>
+  <div class="update-description">
+    Commodity-price hedging, overborrowing, and macroprudential policy in a small open economy.
+  </div>
 </div>
 
 <p class="last-update">
