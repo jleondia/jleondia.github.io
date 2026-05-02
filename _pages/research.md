@@ -28,7 +28,7 @@ comments: false
 
 ## Working Papers
 ***
-### [Inequality, Informality, and Optimal Progressivity](https://cepr.org/publications/dp21229)
+### [Inequality, Informality, and Optimal Progressivity](https://cepr.org/publications/dp21229) (Submitted)
 with [Oscar Becerra](https://sites.google.com/site/orbecerra/), [Luigi Briglia](https://www.luigibriglia.com/), [Ralph Luetticke](https://www.ralphluetticke.com/), and Oscar Valencia <br>
 <details>
 <summary><u>Abstract</u></summary><p> 
@@ -36,7 +36,7 @@ with [Oscar Becerra](https://sites.google.com/site/orbecerra/), [Luigi Briglia](
 </p>
 </details> <br> 
 
-### [Can Financial Hedging Serve Macroprudential Objectives?](https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives)
+### [Can Financial Hedging Serve Macroprudential Objectives?](https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives) (Submitted)
 with [Leandro Andrián](https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en), and [Eugenio Rojas](https://sites.google.com/site/erojasba1/) <br>
 <details>
 <summary><u>Abstract</u></summary><p> 
