@@ -31,16 +31,25 @@ comments: false
     margin: 0 0 0.18rem 0 !important;
   }
 
-  body .archive .title-text {
-    color: #2a7ae2;
+  body .archive .paper-title a {
     font-weight: 700;
+    text-decoration: none;
+  }
+
+  body .archive .paper-title a:hover {
+    text-decoration: underline;
   }
 
   body .archive .paper-status {
-    font-size: 12.2px !important;
-    font-weight: 500;
-    color: #666666;
-    margin-left: 0.25rem;
+    display: inline-block;
+    font-size: 11.5px !important;
+    font-weight: 600;
+    color: #555555;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    padding: 0.05rem 0.32rem;
+    margin-left: 0.35rem;
+    vertical-align: middle;
     white-space: nowrap;
   }
 
@@ -52,7 +61,7 @@ comments: false
   }
 
   body .archive .paper-links {
-    font-size: 12.8px !important;
+    font-size: 12.7px !important;
     line-height: 1.35 !important;
     margin: 0.08rem 0 0.08rem 0;
   }
@@ -61,6 +70,10 @@ comments: false
     font-weight: 700;
     margin-right: 0.65rem;
     text-decoration: none;
+  }
+
+  body .archive .paper-links a:hover {
+    text-decoration: underline;
   }
 
   body .archive details {
@@ -94,8 +107,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <span class="title-text">Inequality, Informality, and Optimal Progressivity</span>
-    <span class="paper-status">(Submitted)</span>
+    <a href="https://cepr.org/publications/dp21229">Inequality, Informality, and Optimal Progressivity</a>
+    <span class="paper-status">Submitted</span>
   </div>
 
   <div class="paper-meta">
@@ -103,10 +116,6 @@ comments: false
     <a href="https://www.luigibriglia.com/">Luigi Briglia</a>, 
     <a href="https://www.ralphluetticke.com/">Ralph Luetticke</a>, 
     and Oscar Valencia
-  </div>
-
-  <div class="paper-links">
-    <a href="https://cepr.org/publications/dp21229">CEPR Discussion Paper</a>
   </div>
 
   <details>
@@ -119,8 +128,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <span class="title-text">Can Financial Hedging Serve Macroprudential Objectives?</span>
-    <span class="paper-status">(Submitted)</span>
+    <a href="https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives">Can Financial Hedging Serve Macroprudential Objectives?</a>
+    <span class="paper-status">Submitted</span>
   </div>
 
   <div class="paper-meta">
@@ -130,7 +139,6 @@ comments: false
 
   <div class="paper-links">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685279">New Version</a>
-    <a href="https://publications.iadb.org/en/can-financial-hedging-serve-macroprudential-objectives">IDB Working Paper</a>
   </div>
 
   <details>
@@ -143,8 +151,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <span class="title-text">From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean</span>
-    <span class="paper-status">(R&amp;R)</span>
+    <a href="https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean">From Discussion to Action: Characterizing Areas of Reform in Latin America and the Caribbean</a>
+    <span class="paper-status">R&amp;R</span>
   </div>
 
   <div class="paper-meta">
@@ -154,7 +162,6 @@ comments: false
   </div>
 
   <div class="paper-links">
-    <a href="https://publications.iadb.org/en/discussion-action-characterizing-areas-reform-latin-america-and-caribbean">IDB Working Paper</a>
     <a href="https://s2.bl-1.com/h/i/dwWPkB94/PcTFGyB?url=https://blogs.iadb.org/efectividad-desarrollo/en/structural-reforms-new-recipes-for-evolving-needs/">Blog Entry</a>
   </div>
 
@@ -168,16 +175,12 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <span class="title-text">The Role of Institutional Quality on the Effects of Fiscal Stimulus</span>
+    <a href="https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus">The Role of Institutional Quality on the Effects of Fiscal Stimulus</a>
   </div>
 
   <div class="paper-meta">
     with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en">Leopoldo Avellán</a> 
     and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en">Arturo Galindo</a>
-  </div>
-
-  <div class="paper-links">
-    <a href="https://publications.iadb.org/en/the-role-of-institutional-quality-on-the-effects-of-fiscal-stimulus">IDB Working Paper</a>
   </div>
 
   <details>
@@ -190,8 +193,8 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <span class="title-text">Preventing Sudden Stops in Net Capital Flows</span>
-    <span class="paper-status">(Resubmitted)</span>
+    <a href="/files/New_Prevented_fv.pdf">Preventing Sudden Stops in Net Capital Flows</a>
+    <span class="paper-status">Resubmitted</span>
   </div>
 
   <div class="paper-meta">
@@ -201,7 +204,6 @@ comments: false
   </div>
 
   <div class="paper-links">
-    <a href="/files/New_Prevented_fv.pdf">Current Version</a>
     <a href="https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows">Previous Version</a>
     <a href="https://publications.iadb.org/en/domestic-antidotes-sudden-stops">Domestic Antidotes to Sudden Stops</a>
   </div>
@@ -216,16 +218,12 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <span class="title-text">Optimal Commodity Price Hedging</span>
+    <a href="https://publications.iadb.org/en/optimal-commodity-price-hedging">Optimal Commodity Price Hedging</a>
   </div>
 
   <div class="paper-meta">
     with <a href="https://scholar.google.com/citations?user=cv_j97MAAAAJ&hl=en">Leandro Andrián</a> 
     and Jorge Mondragón-Minero
-  </div>
-
-  <div class="paper-links">
-    <a href="https://publications.iadb.org/en/optimal-commodity-price-hedging">IDB Working Paper</a>
   </div>
 
   <details>
@@ -240,7 +238,7 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <span class="title-text">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</span>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261560612001763">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</a>
   </div>
 
   <div class="paper-meta">
@@ -248,10 +246,6 @@ comments: false
     <a href="https://scholar.google.com/citations?hl=en&user=gnUIKLoAAAAJ&view_op=list_works&sortby=pubdate">Alejandro Izquierdo</a>, 
     and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&hl=en">Arturo Galindo</a>.
     <span class="journal">Journal of International Money and Finance</span>
-  </div>
-
-  <div class="paper-links">
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261560612001763">Journal Version</a>
   </div>
 
   <details>
