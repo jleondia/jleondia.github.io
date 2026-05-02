@@ -12,8 +12,15 @@ comments: false
     line-height: 1.42 !important;
   }
 
+  body .archive .notes-rule {
+    border: 0;
+    border-top: 1px solid #dddddd;
+    margin-top: 0.55rem;
+    margin-bottom: 1.15rem;
+  }
+
   body .archive .note-entry {
-    margin-bottom: 1.05rem;
+    margin-bottom: 1.65rem;
   }
 
   body .archive .note-title {
@@ -40,8 +47,8 @@ comments: false
   }
 
   body .archive details {
-    margin-top: 0.15rem !important;
-    margin-bottom: 0.1rem !important;
+    margin-top: 0.25rem !important;
+    margin-bottom: 0.35rem !important;
   }
 
   body .archive summary {
@@ -61,6 +68,8 @@ comments: false
     color: #333333;
   }
 </style>
+
+<hr class="notes-rule">
 
 <div class="note-entry">
   <div class="note-title">
@@ -100,7 +109,7 @@ comments: false
   </div>
 
   <div class="note-meta">
-    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en">Leopoldo Avellán</a>, 
+    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&amp;hl=en">Leopoldo Avellán</a>, 
     <a href="https://sites.google.com/view/giulia-lotti/home-page">Giulia Lotti</a>, 
     and Steve Brito
   </div>
@@ -118,11 +127,11 @@ comments: false
 
 <div class="note-entry">
   <div class="note-title">
-    <a href="https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows">On the Dynamics of the Projects Approval Process</a>
+    <a href="https://publications.iadb.org/en/dynamics-projects-approval-process">On the Dynamics of the Projects Approval Process</a>
   </div>
 
   <div class="note-meta">
-    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en">Leopoldo Avellán</a>
+    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&amp;hl=en">Leopoldo Avellán</a>
   </div>
 
   <details>
@@ -139,7 +148,7 @@ comments: false
   </div>
 
   <div class="note-meta">
-    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&hl=en">Leopoldo Avellán</a>
+    with <a href="https://scholar.google.com/citations?user=aXz_ZywAAAAJ&amp;hl=en">Leopoldo Avellán</a>
   </div>
 
   <details>
