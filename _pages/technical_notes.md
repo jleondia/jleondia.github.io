@@ -40,8 +40,6 @@ comments: false
     margin-bottom: 0.4em !important;
   }
 </style>
-
-
 ***
 
 ### [Tracking the Reform Process from Newspaper Data](https://publications.iadb.org/en/tracking-reform-process-newspaper-data) 
