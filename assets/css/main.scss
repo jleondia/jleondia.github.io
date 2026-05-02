@@ -1,45 +1,28 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Only the main Sass file needs front matter
 ---
 
 @charset "utf-8";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
-html {
-    font-size: 12px;
-  
-    @include breakpoint($medium) {
-      font-size: 14px;
-    }
-  
-    @include breakpoint($large) {
-      font-size: 16px;
-    }
-  
-    @include breakpoint($x-large) {
-      font-size: 18px;
-    }
-  }
+@import "minimal-mistakes";
 
-.red-button {
-    background-color: $primary-color;
-    border: none;
-    color: white;
-    padding: 6px 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-  }
+/* Subtle professional top navigation */
+.masthead__menu-item a {
+  font-weight: 650 !important;
+  color: #2f3a45 !important;
+  padding: 0.32rem 0.52rem !important;
+  border-radius: 4px;
+  transition: color 0.18s ease, background-color 0.18s ease;
+}
 
-.red-button:visited {
-    background-color: $primary-color;
-    border: none;
-    color: white;
-    padding: 6px 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-  }
+.masthead__menu-item a:hover {
+  color: #2a6fbb !important;
+  background-color: #f3f7fb !important;
+  text-decoration: none !important;
+}
+
+.masthead__menu-item--active a,
+.masthead__menu-item a[aria-current="page"] {
+  color: #2a6fbb !important;
+  background-color: #f3f7fb !important;
+}
