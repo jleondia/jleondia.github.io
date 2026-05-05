@@ -221,7 +221,7 @@ comments: false
     with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
     <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
     and Santiago Gómez.
-    <span class="journal">Journal of International Money and Finance</span>, forthcoming.
+    <strong>Journal of International Money and Finance</strong>, forthcoming.
   </div>
 
   <div class="paper-links">
@@ -246,7 +246,7 @@ comments: false
     with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
     <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
     and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&amp;hl=en">Arturo Galindo</a>.
-    <span class="journal">Journal of International Money and Finance</span>, 33(C), 1–18.
+    <strong>Journal of International Money and Finance</strong>, 33(C), 1–18, 2013.
   </div>
 
   <details>
