@@ -99,7 +99,8 @@ comments: false
   }
 
   body .archive .journal {
-    font-style: italic;
+    font-style: normal;
+    font-weight: 700;
   }
 </style>
 
@@ -193,31 +194,6 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="/files/New_Prevented_fv.pdf">Preventing Sudden Stops in Net Capital Flows</a>
-    <span class="paper-status">Resubmitted</span>
-  </div>
-
-  <div class="paper-meta">
-    with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
-    <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
-    and Santiago Gómez
-  </div>
-
-  <div class="paper-links">
-    <a href="https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows">Previous Version</a>
-    <a href="https://publications.iadb.org/en/domestic-antidotes-sudden-stops">Domestic Antidotes to Sudden Stops</a>
-  </div>
-
-  <details>
-    <summary><u>Abstract</u></summary>
-    <p>
-      Sudden stops in net capital flows can be prevented if domestic investors either repatriate foreign-held assets or roll over their local asset holdings when foreign investors stop lending or sell off their local asset holdings. This paper presents evidence showing that domestic factors such as low levels of liability dollarization, the consistency of the monetary and exchange rate regimes, low inflation, higher growth, and a solid institutional background explain why some countries are more successful in eliciting the behaviors that increase the probability of preventing a sudden stop following a tightening of the external borrowing constraint. Prevention is key to offsetting an external credit crunch originating in factors that are usually outside the control of borrowing countries, which can turn into costly sudden stops in net capital flows in the affected economies.
-    </p>
-  </details>
-</div>
-
-<div class="paper-entry">
-  <div class="paper-title">
     <a href="https://publications.iadb.org/en/optimal-commodity-price-hedging">Optimal Commodity Price Hedging</a>
   </div>
 
@@ -238,6 +214,32 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
+    <a href="/files/New_Prevented_fv.pdf">Preventing Sudden Stops in Net Capital Flows</a>
+    <span class="paper-status">Forthcoming</span>
+  </div>
+
+  <div class="paper-meta">
+    with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
+    and Santiago Gómez.
+    <span class="journal">Journal of International Money and Finance</span>, forthcoming.
+  </div>
+
+  <div class="paper-links">
+    <a href="https://publications.iadb.org/en/preventing-sudden-stops-in-net-capital-flows">Previous Version</a>
+    <a href="https://publications.iadb.org/en/domestic-antidotes-sudden-stops">Domestic Antidotes to Sudden Stops</a>
+  </div>
+
+  <details>
+    <summary><u>Abstract</u></summary>
+    <p>
+      Sudden stops in net capital flows can be prevented if domestic investors either repatriate foreign-held assets or roll over their local asset holdings when foreign investors stop lending or sell off their local asset holdings. This paper presents evidence showing that domestic factors such as low levels of liability dollarization, the consistency of the monetary and exchange rate regimes, low inflation, higher growth, and a solid institutional background explain why some countries are more successful in eliciting the behaviors that increase the probability of preventing a sudden stop following a tightening of the external borrowing constraint. Prevention is key to offsetting an external credit crunch originating in factors that are usually outside the control of borrowing countries, which can turn into costly sudden stops in net capital flows in the affected economies.
+    </p>
+  </details>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261560612001763">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</a>
   </div>
 
@@ -245,7 +247,7 @@ comments: false
     with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
     <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
     and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&amp;hl=en">Arturo Galindo</a>.
-    <span class="journal">Journal of International Money and Finance</span>
+    <span class="journal">Journal of International Money and Finance, 33(C), 1–18</span>.
   </div>
 
   <details>
