@@ -215,7 +215,6 @@ comments: false
 <div class="paper-entry">
   <div class="paper-title">
     <a href="/files/New_Prevented_fv.pdf">Preventing Sudden Stops in Net Capital Flows</a>
-    <span class="paper-status">Forthcoming</span>
   </div>
 
   <div class="paper-meta">
@@ -247,7 +246,7 @@ comments: false
     with <a href="https://www.eduardocavallo.com/">Eduardo Cavallo</a>, 
     <a href="https://scholar.google.com/citations?hl=en&amp;user=gnUIKLoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Alejandro Izquierdo</a>, 
     and <a href="https://scholar.google.com/citations?user=ZZNGy08AAAAJ&amp;hl=en">Arturo Galindo</a>.
-    <span class="journal">Journal of International Money and Finance, 33(C), 1–18</span>.
+    <span class="journal">Journal of International Money and Finance</span>, 33(C), 1–18.
   </div>
 
   <details>
