@@ -239,7 +239,7 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="https://www.sciencedirect.com/science/article/pii/S0261560626000781">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0261560612001763">The Role of Relative Price Volatility in the Efficiency of Investment Allocation</a>
   </div>
 
   <div class="paper-meta">
