@@ -214,7 +214,7 @@ comments: false
 
 <div class="paper-entry">
   <div class="paper-title">
-    <a href="/files/New_Prevented_fv.pdf">Preventing Sudden Stops in Net Capital Flows</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0261560626000781">Preventing Sudden Stops in Net Capital Flows</a>
   </div>
 
   <div class="paper-meta">
